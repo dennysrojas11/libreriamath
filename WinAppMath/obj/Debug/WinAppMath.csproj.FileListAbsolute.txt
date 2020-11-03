@@ -1,0 +1,10 @@
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\bin\Debug\WinAppMath.exe.config
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\bin\Debug\WinAppMath.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\bin\Debug\WinAppMath.pdb
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.csprojAssemblyReference.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.Form1.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.Properties.Resources.resources
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.csproj.GenerateResource.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.csproj.CoreCompileInputs.cache
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.exe
+C:\Users\denny\OneDrive - ESCUELA SUPERIOR POLITECNICA DE CHIMBORAZO\ESPOCH\2020B\Aplicaciones Informáticas 1\Programas\WinAppMath\WinAppMath\obj\Debug\WinAppMath.pdb
